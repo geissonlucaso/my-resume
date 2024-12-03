@@ -1,0 +1,16 @@
+*{
+    text-decoration: none;
+}
+
+body{
+    width: 70%;
+    margin: 10px auto;
+}
+
+.border{
+    border: 1px solid black;
+}
+
+.container-dados-pessoais{
+    float: left;
+}
