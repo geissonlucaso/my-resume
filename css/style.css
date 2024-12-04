@@ -1,16 +1,56 @@
-*{
+* {
     text-decoration: none;
 }
 
-body{
+body {
     width: 70%;
     margin: 10px auto;
 }
 
-.border{
-    border: 1px solid black;
+.green {
+    background-color: green;
 }
 
-.container-dados-pessoais{
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.clear{
+    clear: both;
+}
+
+.cabecalho-topo {
+    
+}
+
+.container-dados-pessoais {
     float: left;
+    width: 30%;
+}
+
+.container-dados-pessoais > img {
+    
+}
+
+.container-perfil {
+    float: right;
+    width: 70%;
+}
+
+.img-perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.container-conteudo {
+    clear: both;
 }
